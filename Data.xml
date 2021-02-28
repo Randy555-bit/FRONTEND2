@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<DOC>
+<MATERIAL transparent="yes">document</MATERIAL>
+<HEIGHT units="inches">6</HEIGHT>
+<VOLUME units="ounces">16</VOLUME>
+<CONTENTS>
+<SOLID qty="2">ice cube</SOLID>
+<SOLID qty="1">straw</SOLID>
+<LIQUID qty="3" units="ounces">water</LIQUID>
+<OTHER qty="0"/>
+</CONTENTS>
+<LID>yes</LID>
+</DOC>
